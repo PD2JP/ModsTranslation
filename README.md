@@ -4,4 +4,4 @@ BLTやその他PAYDAY2に関する物を日本語にするファイルです。
 
 ## 対応Mod
  * BLT
- 
+ * PD2Stats
