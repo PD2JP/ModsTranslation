@@ -1,8 +1,8 @@
 {
-	"custom_FOV_menu_title" : "ƒJƒXƒ^ƒ€ FOV",
-	"custom_FOV_menu_desc" : "FOV‚ğƒJƒXƒ^ƒ}ƒCƒY‚µ‚Ü‚·",
+	"custom_FOV_menu_title" : "ã‚«ã‚¹ã‚¿ãƒ  FOV",
+	"custom_FOV_menu_desc" : "FOVã‚’ã‚«ã‚¹ã‚¿ãƒã‚¤ã‚ºã—ã¾ã™",
 
 	"sld_more_FOV_title" : "FOV",
-	"sld_more_FOV_desc" : "FOV‚ğƒJƒXƒ^ƒ}ƒCƒY‚µ‚Ü‚·",
+	"sld_more_FOV_desc" : "FOVã‚’ã‚«ã‚¹ã‚¿ãƒã‚¤ã‚ºã—ã¾ã™",
 
 }
